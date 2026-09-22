@@ -97,6 +97,19 @@ export function SkillsSection() {
             </ul>
           </div>
         </div>
+
+        {/* Experience & Activity Banner */}
+        <div className="mt-6 rounded-3xl border border-white/[0.08] bg-[#161617] p-6 sm:p-7 flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 text-xs sm:text-sm text-[#86868b]">
+          <div className="flex items-center gap-3">
+            <span className="w-2 h-2 rounded-full bg-emerald-400" />
+            <span>
+              <strong className="text-white font-medium">+750 contribuciones en GitHub</strong> en el último año · Código activo y proyectos en marcha.
+            </span>
+          </div>
+          <div className="text-xs text-[#86868b]">
+            Trayectoria previa en desarrollo de software para empresas y startups (Softico, Biyuyo).
+          </div>
+        </div>
       </div>
     </section>
   );

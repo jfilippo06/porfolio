@@ -17,9 +17,9 @@ export function Navbar() {
   return (
     <header className="sticky top-0 z-40 w-full bg-black/80 backdrop-blur-xl border-b border-white/[0.08]">
       <div className="max-w-5xl mx-auto px-5 sm:px-8 h-14 flex items-center justify-between">
-        <a href="#" className="text-sm font-semibold text-[#f5f5f7] tracking-tight flex items-center gap-1.5">
-          <span>portafolio</span>
-          <span className="w-1.5 h-1.5 rounded-full bg-[#0071e3]" />
+        <a href="#" className="text-sm font-semibold text-[#f5f5f7] tracking-tight flex items-center gap-1.5 group">
+          <span>jose filippo</span>
+          <span className="w-1.5 h-1.5 rounded-full bg-[#0071e3] group-hover:scale-125 transition-transform" />
         </a>
 
         <nav className="hidden md:flex items-center gap-6 text-[13px] text-[#86868b] font-normal">

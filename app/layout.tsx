@@ -19,9 +19,9 @@ export const viewport: Viewport = {
 };
 
 export const metadata: Metadata = {
-  title: "Portafolio — Desarrollo Web & Mobile",
+  title: "Jose Alvarez Filippo — Desarrollador Web & Mobile (Next.js & Flutter)",
   description:
-    "Webs con Next.js y apps con Flutter. Proyectos reales en producción.",
+    "Desarrollador Full-Stack Web & Mobile. Especialista en Next.js, React y Flutter. Proyectos en producción: Academia INOQUA, Inocuidad Sin Fronteras y Clasificados 180.",
   icons: {
     icon: "/favicon.ico",
   },

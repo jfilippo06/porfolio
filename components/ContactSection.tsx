@@ -36,21 +36,21 @@ export function ContactSection() {
 
           <div className="mt-9 flex flex-wrap items-center justify-center gap-3 sm:gap-4">
             <a
-              href="https://wa.me/?text=Hola%2C%20vi%20tu%20portafolio%20y%20quiero%20conversar%20sobre%20un%20proyecto."
+              href="https://wa.me/584123015399?text=Hola%20Jose%2C%20vi%20tu%20portafolio%20y%20quiero%20conversar%20sobre%20un%20proyecto."
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm font-medium text-white bg-[#0071e3] hover:bg-[#0077ed] px-6 py-3 rounded-full transition-all shadow-[0_0_24px_rgba(0,113,227,0.35)] hover:shadow-[0_0_32px_rgba(0,113,227,0.5)] flex items-center gap-2"
             >
               <MessageCircle className="w-4 h-4" />
-              <span>Escribir por WhatsApp</span>
+              <span>WhatsApp (+58 412 3015399)</span>
             </a>
 
             <a
-              href="mailto:?subject=Consulta%20sobre%20desarrollo%20de%20proyecto&body=Hola%2C%20vi%20tu%20portafolio%20y%20me%20gustar%C3%ADa%20conversar%20sobre%20un%20proyecto%3A"
+              href="mailto:jfilippo04@gmail.com?subject=Consulta%20sobre%20proyecto%20con%20Jose%20Filippo"
               className="text-sm font-medium text-white bg-white/[0.08] hover:bg-white/[0.14] border border-white/[0.1] px-6 py-3 rounded-full transition-all flex items-center gap-2"
             >
               <Mail className="w-4 h-4 text-[#2997ff]" />
-              <span>Enviar un correo</span>
+              <span>jfilippo04@gmail.com</span>
             </a>
 
             <button
@@ -70,6 +70,30 @@ export function ContactSection() {
                 </>
               )}
             </button>
+          </div>
+
+          <div className="mt-8 pt-6 border-t border-white/[0.06] flex flex-wrap items-center justify-center gap-6 text-xs text-[#86868b]">
+            <a
+              href="https://www.linkedin.com/in/jose-angel-alvarez-filippo"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white transition-colors flex items-center gap-1.5"
+            >
+              <span>LinkedIn</span>
+              <span className="text-[#2997ff]">↗</span>
+            </a>
+            <span className="text-white/10">•</span>
+            <a
+              href="https://github.com/jfilippo06/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-white transition-colors flex items-center gap-1.5"
+            >
+              <span>GitHub (@jfilippo06)</span>
+              <span className="text-[#2997ff]">↗</span>
+            </a>
+            <span className="text-white/10">•</span>
+            <span>Carabobo, Venezuela (Disponible Remoto)</span>
           </div>
         </div>
       </div>

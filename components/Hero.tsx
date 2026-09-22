@@ -12,9 +12,7 @@ export function Hero() {
       </h1>
 
       <p className="mt-7 text-[#86868b] text-lg sm:text-xl font-normal leading-relaxed max-w-2xl">
-        Software real construido con Next.js y Flutter. Ayudo a negocios y fundadores
-        a digitalizar procesos, lanzar productos rápidos y automatizar su operación
-        directo a producción.
+        Soy <span className="text-white font-medium">Jose Alvarez Filippo</span>. Construyo software con Next.js y Flutter. Ayudo a negocios y fundadores a digitalizar procesos, lanzar productos rápidos y automatizar su operación directo a producción.
       </p>
 
       <div className="mt-10 flex flex-wrap items-center gap-4">
