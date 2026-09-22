@@ -54,6 +54,14 @@
 
 ---
 
+## 💼 Servicios & Soluciones
+
+1. **Landings de Alta Conversión (Next.js):** Sitios de carga ultra rápida (<1s), diseño persuasivo mobile-first, formularios directos a WhatsApp/CRM y SEO técnico para clínicas, academias, lanzamientos y negocios locales.
+2. **Sistemas Web & Paneles de Gestión (SaaS / CRUD):** Reemplazo de procesos manuales y hojas de Excel por plataformas web seguras con control de inventario, facturación, reportes exportables y plataformas educativas (LMS).
+3. **Apps Móviles Multiplataforma (Flutter):** Aplicaciones nativas a 60 FPS para Android e iOS. Catálogos, toma de pedidos en calle para distribuidores, reservas de servicios y MVPs de startups.
+
+---
+
 ## 🛠️ Habilidades y Especialización
 
 ```

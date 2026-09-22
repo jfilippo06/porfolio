@@ -22,12 +22,18 @@ export function Navbar() {
           <span className="w-1.5 h-1.5 rounded-full bg-[#0071e3]" />
         </a>
 
-        <nav className="hidden sm:flex items-center gap-7 text-[13px] text-[#86868b] font-normal">
+        <nav className="hidden md:flex items-center gap-6 text-[13px] text-[#86868b] font-normal">
           <a href="#trabajo" className="hover:text-[#f5f5f7] transition-colors">
             Trabajo
           </a>
+          <a href="#servicios" className="hover:text-[#f5f5f7] transition-colors">
+            Servicios
+          </a>
           <a href="#sobre-mi" className="hover:text-[#f5f5f7] transition-colors">
             Stack
+          </a>
+          <a href="#proceso" className="hover:text-[#f5f5f7] transition-colors">
+            Proceso
           </a>
           <a href="#contacto" className="hover:text-[#f5f5f7] transition-colors">
             Contacto
